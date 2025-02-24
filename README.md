@@ -47,7 +47,11 @@ DefaultSystemSettings.ini is located in your SteamLibrary\steamapps\common\nosgo
 BaseSystemSettings is located in your SteamLibrary\steamapps\common\nosgoth\Engine\Config folder
 
 # After launching the game
-Go  to video settings and limit fps to 80
+Go  to video settings and 
+
+limit fps to 80
+
+Disable VSYNC one more time
 
 # To make your own
 Do a backup of the .ini files before modifying them since it's not hard to make the game unplayable by changing those values.

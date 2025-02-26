@@ -34,7 +34,7 @@ Virtual Reality pre-rendered frames > 1
 Same as NVIDIA but if they are named differently or missing google can help. 
 Whatever lowers input lag and increases the performance of the game
 
-# Replace the text from  DefaultSystemSettings.ini with this 
+# Replace the text in DefaultSystemSettings.ini with this 
 https://github.com/meph144/-Fix/issues/1 or https://github.com/meph144/-Fix/issues/3
 # And BaseSystemSettings.ini with this 
 https://github.com/meph144/-Fix/issues/2 or https://github.com/meph144/-Fix/issues/4

@@ -36,9 +36,9 @@ Same as NVIDIA but if they are named differently or missing google can help.
 Whatever lowers input lag and increases the performance of the game
 
 # Replace the text from  DefaultSystemSettings.ini with this 
-https://github.com/meph144/-Fix/issues/1
+https://github.com/meph144/-Fix/issues/1 or https://github.com/meph144/-Fix/issues/3
 # And BaseSystemSettings.ini with this 
-https://github.com/meph144/-Fix/issues/2
+https://github.com/meph144/-Fix/issues/2 or https://github.com/meph144/-Fix/issues/4
 
 ## .ini File Locations
 
@@ -51,7 +51,7 @@ Go  to video settings and
 
 limit fps to 80
 
-Disable VSYNC one more time
+Make sure VSYNC is disabled
 
 # To make your own
 Do a backup of the .ini files before modifying them since it's not hard to make the game unplayable by changing those values.

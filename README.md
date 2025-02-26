@@ -4,7 +4,7 @@ If you already have the game, do a clean reinstall and make sure the entire docu
 Then, you need to place dxvk in your SteamLibrary\steamapps\common\nosgoth\Binaries\Win32 folder  
 
 https://github.com/doitsujin/dxvk/releases/download/v2.5.3/dxvk-2.5.3.tar.gz
-To play safe do everything in this guide before launching the fresh install
+To play safe apply all changes in this guide before launching the fresh install
 
 # Apply the Video Driver Optimizations below 
 # NVIDIA

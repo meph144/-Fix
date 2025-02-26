@@ -6,7 +6,7 @@ Then, you need to place dxvk in your SteamLibrary\steamapps\common\nosgoth\Binar
 https://github.com/doitsujin/dxvk/releases/download/v2.5.3/dxvk-2.5.3.tar.gz
 To play safe apply all changes in this guide before launching the fresh install
 
-# Apply the Video Driver Optimizations below 
+# Set up the Video Driver Optimizations below 
 # NVIDIA
 
 
